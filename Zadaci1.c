@@ -1,6 +1,5 @@
 /*#include <stdio.h>
 2.1 Zadatak
-
  main() {
 	printf("Od danas programiramo u jeziku C.")
 	return 0;
@@ -12,7 +11,6 @@ main (){
 	printf("\nPozdrav svima!\n");
 	return 0;
 }
-
 c)
 main (){
 	printf("\n Pozzdrav\nsvima\n");
@@ -27,8 +25,6 @@ napisati funkciju koja ucitava vrednosti sa tastature za sledece promenljive:
 a) a, b, x
 b) i, f, j
 v) x, y, f
-
-
 a)
 main(){
 	int a,b ;
@@ -43,7 +39,6 @@ main(){
 	
 	
 }
-
 b)
 main(){
 	long int i,j;
@@ -64,8 +59,6 @@ a) promenljiva h u dekadnom sistemu;
 b) realne promenljive h i u;
 v) promeljiva h u dekadnom, oktalnom i heksadecimalnom sistemu;
 g) štampa vrednost promenljive h tipa char.
-
-
 a) 
 main(){
 	int x;
@@ -107,19 +100,4 @@ main(){
 		
 		return 0;
 }
-
 */ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
